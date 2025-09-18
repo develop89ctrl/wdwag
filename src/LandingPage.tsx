@@ -208,10 +208,10 @@ export default function LandingPage() {
           <h3 className="text-3xl font-extrabold">Ready to join Watch Dealer Group?</h3>
           <p className="mt-3 text-neutral-300">Limited places · USDT only · Instant access after verification</p>
           <div className="mt-8 grid gap-4">
-            <a href="mailto:apply@watchdealergroup.com?subject=Membership%20Application&body=Please%20attach%20your%20company%20documents%2C%20director%20ID%2C%20and%20references.%20Let%20us%20know%20if%20you%20want%2010%20or%2016%20groups.%20We%20will%20reply%20with%20USDT%20payment%20instructions." className="rounded-2xl bg-green-500 text-neutral-900 px-6 py-4 font-semibold hover:bg-green-400 inline-flex items-center justify-center gap-2 mx-auto w-full">
-              <CreditCard className="h-5 w-5" /> Apply via Email & Receive USDT Address
+            <a href="https://wa.me/3197010280548?text=Hello%2C%20I%20would%20like%20to%20apply%20for%20Watch%20Dealer%20Group%20membership.%20Please%20provide%20USDT%20payment%20details%20and%20let%20me%20know%20what%20documents%20are%20needed." className="rounded-2xl bg-green-500 text-neutral-900 px-6 py-4 font-semibold hover:bg-green-400 inline-flex items-center justify-center gap-2 mx-auto w-full">
+              <CreditCard className="h-5 w-5" /> Apply via WhatsApp & Receive USDT Address
             </a>
-            <p className="text-xs text-neutral-400">Prefer WhatsApp onboarding? Message +000 000 000 for secure verification (placeholder).</p>
+            <p className="text-xs text-neutral-400">Direct WhatsApp contact: +31 97010280548 for immediate assistance.</p>
           </div>
         </div>
       </section>
